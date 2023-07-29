@@ -1,1 +1,105 @@
-
+{
+  "en": {
+    "menu":["Home","Example","Clients","Info","Contacts"],
+    "home": {
+      "main": "selling quest from your video",
+      "description": "for social networks & sites",
+      "buttons": ["polski","english"]
+    },
+    "example": {
+      "statistics" : [
+        {
+          "main": "Viral effect",
+          "description": "Users share your videos on social networks and bring new viewers."
+        },
+        {
+          "main": "Lead conversion",
+          "description": "Users perform targeted actions and subscribe to your newsletter."
+        },
+        {
+          "main": "Hold players",
+          "description": "Players re-watch your video and re-play the game."
+        }
+      ],
+      "headline": "Marketing quest based on advertiser video",
+      "description": "We analyze the content of your video and generate a quest based on the data obtained. The created video quest will contain game elements, links and your advertisement.",
+      "buttons": ["order","analysts"]
+    },
+    "clients": {
+      "headline": "OUR PARTNERS"
+    },
+    "usefulBlock": {
+      "headline": "We can be useful",
+      "usefulCards": [
+        {
+          "headline": "Marketers and agencies",
+          "statistics": ["convers 26%", "retent 25%"],
+          "button": "ORDER"
+        },
+        {
+          "headline": "Production studios and TV platforms",
+          "statistics": ["convers 24%", "retent 33%"],
+          "button": "ORDER"
+        },
+        {
+          "headline": "Conference creators",
+          "statistics": ["convers 65%", "retent 15%"],
+          "button": "ORDER"
+        },
+        {
+          "headline": "Bloggers and streamers",
+          "statistics": ["convers 24%", "retent 33%"],
+          "button": "ORDER"
+        }
+      ],
+      "elseBlock": {
+        "description": "SOMETHING ELSE?",
+        "button": "LET'S AGREE"
+      }
+    },
+    "examples": {
+      "headline": "Examples of our projects",
+      "cards": [
+        {
+          "headline": "CYBERSPORT BRANDED GAMES",
+          "description": "Creation of interactive games based on e-sports broadcasts or videos, with the addition of sponsor branded elements. Mechanics allows you to hold contests or collect player content.",
+          "statistics": ["convers 26%", "retent 25%"],
+          "button": "PLAY"
+        },
+        {
+          "headline": "OFFLINE GAMES AT THE STAND FOR CONFERENCES, EXHIBITIONS ...",
+          "description": "Create interactive games for offline posting exhibitions and conferences. The user is invited to play the game on the big screen using the game console or placed on the tablet. Mechanics allow you to hold contests or collect player contacts.",
+          "statistics": ["convers 24%", "retent 33%"],
+          "button": "PLAY"
+        },
+        {
+          "headline": "GAMES FROM ADVERTISING VIDEOS",
+          "description": "Creation of interactive games based on client’s promotional videos. Allows you to draw attention to the brand and increase conversion. Mechanics allows you to hold contests promo codes or collect contacts of players.",
+          "statistics": ["convers 65%", "retent 15%"],
+          "button": "PLAY"
+        },
+        {
+          "headline": "GAMES BASED ON CYBERSPORTS CONTENT",
+          "description": "Creating interactive games based on online role-playing games. Allows you to draw attention to streamers and gaming activities. Mechanics allow you to hold contests or collect player contacts.",
+          "statistics": ["convers 24%", "retent 33%"],
+          "button": "PLAY"
+        }
+      ]
+    },
+    "contacts": {
+      "headline": "Any questions? Contact us!",
+      "description": "We will be happy to communicate.",
+      "contacts": {
+        "skype": "live:vip.Rijma"
+      },
+      "form": {
+        "name": "name",
+        "mail": "email",
+        "headline": "head",
+        "text": "text",
+        "buttons": ["clear form","Send Message"]
+      }
+    }
+  }
+  
+}
